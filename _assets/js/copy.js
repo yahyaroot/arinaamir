@@ -10,5 +10,5 @@ function myFunction() {
     navigator.clipboard.writeText(copyText.value);
   
     /* Alert the copied text */
-    alert("Berbagi Kebahagian: " + copyText.value);
+    alert("Berbagi Kebahagiaan: " + copyText.value);
   }
